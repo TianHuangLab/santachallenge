@@ -1,2 +1,2 @@
-# santachallenge
+# Santa Challenge
 algorithm practice
